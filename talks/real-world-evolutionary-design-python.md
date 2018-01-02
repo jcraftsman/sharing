@@ -6,15 +6,15 @@ Hands-on workshop (2h - 3h)
 
 ## Pitch
 
-Tu veux construire une application, en gardant une boucle de feedback rapide tout au long du développement ?
+Tu veux construire une application, en gardant une boucle de feedback rapide tout au long du développement&nbsp;?
 
-Tu veux avoir une application souple, sans finir par dessiner des diagrammes ou écrire un DAT qui sera obsolète avant le début du développement ?
+Tu veux avoir une application souple, sans finir par dessiner des diagrammes ou écrire un DAT qui sera obsolète avant le début du développement&nbsp;?
 
-Tu arrives à anticiper plusieurs besoins non fonctionnels (dispo, perf...), mais tu ne sais pas par quoi commencer ?
+Tu arrives à anticiper plusieurs besoins non fonctionnels (dispo, perf...), mais tu ne sais pas par quoi commencer&nbsp;?
 
-Tu trouves les katas pour TDD et clean code rigolos mais trop simples par rapport aux vrais problèmes de la vraie vie ?
+Tu trouves les katas pour TDD et clean code rigolos mais trop simples par rapport aux vrais problèmes de la vraie vie&nbsp;?
 
-Ce workshop est taillé pour toi !
+Ce workshop est taillé pour toi&nbsp;!
 
 L'objectif de ce workshop est de construire une application en Python 3 qui intéragit avec des services externes (AWS S3 et une web api).
 
