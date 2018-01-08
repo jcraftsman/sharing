@@ -24,3 +24,13 @@ Ce talk est un retour d'expérience sur le quotidien des équipes projets. Nous 
 
 Nous essaierons de comprendre ce qui a marché et ce qui a moins bien marché.
 Puis, nous ferons un focus sur comment collaborer avec un éditeur quand il est nécessaire d'avancer de manière agile.
+
+## Motivation
+
+Silicon Valley, Big data, IoT et AI évoquent un certain nombre de fantasmes.
+L'objectif de ce talk est de démystifier, puis de faire le tri parmi tous ces concepts pour expliquer comment en extraire de la valeur.
+
+J'ai accompagné mon client dans son aventure avec une "licorne" californienne qui produit une plateforme de Big data analytics et AI.
+Pendant 1 an, plusieurs projets ont vu le jour. 
+Un rythme soutenu où il fallait allier exploration et livraison continue.
+Du cadrage à l'adoption des utilisateurs, il y a eu des succès et quelques abandons mais plusieurs leçons apprises.
