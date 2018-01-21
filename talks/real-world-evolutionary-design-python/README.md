@@ -44,7 +44,7 @@ Voici le déroulement :
 
 Au début de chaque itération, les participants auront le choix de continuer sur leur version de code ou de démarrer depuis une version du repo qui contient tous les prérerequis de l'itération à suivre.
 
-En suivant une approche outside-in, nous allons guider les développement par l'usage. Nous allons nous concenctrer à coder juste ce qu'il faut pour réaliser l'user story pour réduire toute complexité accidentelle.
+En suivant une approche outside-in, nous allons guider les développements par l'usage. Nous allons nous concenctrer à coder juste ce qu'il faut pour réaliser l'user story pour réduire toute complexité accidentelle.
 
 Les règles d'implémentation "by wishful thinking" vont nous aider à faire émerger un design plus souple et isoler l'infra du domaine (évitant ainsi les piège OO : rigidité, fragilité, immobilité).
 
