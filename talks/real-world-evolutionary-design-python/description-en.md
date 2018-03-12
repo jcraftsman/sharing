@@ -14,7 +14,7 @@ During this workshop, we will create a software using Python and following diffe
 
 ## In full
 
-This session introduces Evolutionary Design through the implementation of a user story. We will follow the outside-in approach of Test Driven Development, which will guide our implementation towards user interaction with the software. 
+This session introduces Evolutionary Design through the implementation of a user story. We will follow the outside-in approach of Test Driven Development, which will guide our implementation towards user interaction with the software.
 
 The aim is to write just enough well crafted code to meet the user story, while minimizing any accidental complexity.
 
@@ -23,3 +23,7 @@ By following the steps of "programming by wishful thinking", we will be able to 
 After that, we will see how to address non functional concerns on a "working" software.
 
 Moreover, this session will show that Python is not only a good programming language for scripting or data science notebook reports. It is also a valid programming language to build real world softwares.
+
+## Slides
+
+<http://slides.com/wasselalazhar/real-world-evolutionary-design-with-python>

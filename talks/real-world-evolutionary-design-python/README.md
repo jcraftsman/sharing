@@ -51,3 +51,7 @@ Les règles d'implémentation "by wishful thinking" vont nous aider à faire ém
 Une fois qu'une version fonctionnelle sera réalisée, nous essaierons d'introduire des besoins de perf. En ayant séparé les préoccupations au préalable, nous verrons comment il sera simple de les satisfaire.
 
 Finalement, nous allons aussi découvrir qu'on peut créer des application avec Python. Ce n'est pas uniquement un bon langage de scripting ou de notebook pour les rapports de data science.
+
+## Slides
+
+<http://slides.com/wasselalazhar/real-world-evolutionary-design-with-python>
