@@ -20,7 +20,7 @@ We will see how to:
 
 - Integrate data science in an Agile project
 - Collaborate effectively between 3 areas of expertise (Data Science, Data Integration, App Development), and avoid splitting them up
-- Promote the learning path of the team 
+- Promote the learning path of the team
 - Work with an unstable PAAS solution
 - Strengthen the collective ownership of the code
 - Improve product quality in an exploratory field
