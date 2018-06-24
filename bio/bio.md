@@ -4,7 +4,7 @@ Wassel Alazhar est consultant chez Octo Technologies et membre actif de la commu
 
 Durant ses 10 années d’expérience, il est devenu un artisan codeur polyglotte. Il a grandi dans l’écosystème Java, où il a obtenu la certification architecte (OCMJEA), mais parle couramment Javascript et Python.
 
-Ce qui l’anime c’est surtout d'aider les équipes à créer de la valeur en continue à travers des logiciels de qualité. Il donne également des formations autour de TDD, clean code et autres pratiques du Software Craftsmanship.
+Ce qui l’anime c’est surtout d'aider les équipes à créer de la valeur en continue à travers des logiciels de qualité. Il donne également des formations autour de TDD, revue de code, clean code et autres pratiques du Software Craftsmanship.
 
 -----------------------------------------------------------------------------------------------------------------------
 Wassel Alazhar is a consultant at Octo Technology and an active member of the software craftsmanship community in Paris.
