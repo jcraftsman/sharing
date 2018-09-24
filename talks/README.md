@@ -1,14 +1,14 @@
 # Conferences
 
-## Next
+## Past events (2018)
 
 ### September 12-14
 
 [Explore DDD](http://exploreddd.com) 2018 (Grand Hyatt – Denver, Colorado, USA)
 
 - [Real world Evolutionary Design](http://exploreddd.com/speakers/wassel-alazhar.html)
-
-## Past events (2018)
+  - [Code repository](https://github.com/jcraftsman/evolutionary-design-workshop)
+  - [Slides](https://speakerdeck.com/jcraftsman/real-world-evolutionary-design)
 
 ### June 14-15
 
